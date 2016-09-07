@@ -35,13 +35,14 @@
 * 支持多音字。
 * 简单的繁体支持。
 * 支持多种不同拼音风格。
+* babel编译后，支持ie8
 
 ## 安装
 
 via npm:
 
 ```bash
-npm install pinyin
+npm install pinyin-browser
 ```
 
 ## 用法
